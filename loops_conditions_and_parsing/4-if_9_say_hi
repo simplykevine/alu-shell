@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+#a script that display word "Best School"
+# a script that displays hi on 9-th line before "Best School"
+
+count=0
+
+while [ $count -lt 10 ]
+	do
+if [ $count -eq 9 ]
+	then
+	       	echo "hi"
+fi 
+		echo "Best School"
+	(( count++ ))
+done
