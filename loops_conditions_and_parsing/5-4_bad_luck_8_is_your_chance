@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # write a script that displays bad luck for the 4th loop iteration
 # write a script that displays good luck for the 8th loop iteration
 # write a script that displays Best School for the other iterations
